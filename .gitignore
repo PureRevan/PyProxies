@@ -1,0 +1,3 @@
+/PyProxies/data/*
+!/PyProxies/data/
+/.idea/
