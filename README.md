@@ -2,9 +2,9 @@
 
 **PyProxies** is a Python project for fetching free proxies and estimating their performance locally.
 
-**Note:** that these proxies may not deliver the best performance nor the best privacy and that this is more of a study/prototype project.
+**Note:** These proxies may not deliver the best performance nor the best privacy and that this is more of a study/prototype project.
 
-*Actually good* proxies, which also most likely *don't* sell one's data, can generally not publically be found for free, though some sites like [Webshare](https://www.webshare.io) may offer free trials or something similar with more trustworthy proxies (with certain restrictions such as bandwith limitations)
+*Actually good* proxies, which also most likely *don't* sell one's data, can generally not publically be found for free, though some sites like [Webshare](https://www.webshare.io) may offer free trials or something similar with more trustworthy proxies (with certain restrictions such as bandwith limitations).
 
 ## Installation and Usage
 
