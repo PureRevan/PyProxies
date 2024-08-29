@@ -4,7 +4,7 @@
 
 **Note:** that these proxies may not deliver the best performance nor the best privacy and that this is more of a study/prototype project.
 
-*Actually good* proxies, which also most likely *don't* sell one's data, can generally not be found for free, though some sites like [Webshare](https://www.webshare.io) may offer free trials or free proxies with certain limitations or restrictions. 
+*Actually good* proxies, which also most likely *don't* sell one's data, can generally not publically be found for free, though some sites like [Webshare](https://www.webshare.io) may offer free trials or something similar with more trustworthy proxies (with certain restrictions such as bandwith limitations)
 
 ## Installation and Usage
 
