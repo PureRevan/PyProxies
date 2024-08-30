@@ -13,7 +13,12 @@
 git clone https://github.com/DarthRevan333/PyProxies
 ```
 
-2. Use the cloned project
+2. Install dependencies (also listed [here](requirements.txt))
+   ```shell
+   pip install requests
+   ```
+
+3. Use the cloned project
 
     - Run the main script directly
         ```shell
