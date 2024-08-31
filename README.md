@@ -9,9 +9,9 @@
 ## Installation and Usage
 
 1. Clone the git repository
-```shell
-git clone https://github.com/DarthRevan333/PyProxies
-```
+   ```shell
+   git clone https://github.com/DarthRevan333/PyProxies
+   ```
 
 2. Install dependencies (also listed [here](requirements.txt))
    ```shell
@@ -37,7 +37,7 @@ git clone https://github.com/DarthRevan333/PyProxies
             print("\n".join([f"{p.protocol}://{p.ip}" for p in pl.get_n_best(20)]))
         ```
 
-        Note that you can only import from the [inner PyProxies folder](PyProxies) containing the [\_\_init\_\_.py](PyProxies/__init__.py) , but run both
+        Note that you can only import from the [inner PyProxies folder](PyProxies) containing the [\_\_init\_\_.py](PyProxies/__init__.py)
 
 ## Sources
 
