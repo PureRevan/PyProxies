@@ -10,7 +10,7 @@
 
 1. Clone the git repository
    ```shell
-   git clone https://github.com/DarthRevan333/PyProxies
+   git clone https://github.com/PureRevan/PyProxies
    ```
 
 2. Install dependencies (also listed [here](requirements.txt))
